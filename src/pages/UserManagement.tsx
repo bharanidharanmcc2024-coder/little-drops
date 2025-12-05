@@ -18,10 +18,10 @@ import { Navigate } from 'react-router-dom';
 
 // Mock users list
 const mockUsersList = [
-  { id: '1', name: 'Dr. Ramesh Kumar', email: 'founder@oldhome.com', role: 'founder' as UserRole, isHigherAuthority: false },
-  { id: '2', name: 'Mrs. Lakshmi Devi', email: 'trustee@oldhome.com', role: 'trustee' as UserRole, isHigherAuthority: false },
-  { id: '3', name: 'Ravi Shankar', email: 'staff@oldhome.com', role: 'staff' as UserRole, isHigherAuthority: true },
-  { id: '4', name: 'Priya Sharma', email: 'staff2@oldhome.com', role: 'staff' as UserRole, isHigherAuthority: false },
+  { id: '1', name: 'EJ PAUL', email: 'founder@oldhome.com', role: 'founder' as UserRole, isHigherAuthority: false },
+  { id: '2', name: 'Mr BOVAS', email: 'trustee@oldhome.com', role: 'trustee' as UserRole, isHigherAuthority: false },
+  { id: '3', name: 'jeba', email: 'staff@oldhome.com', role: 'staff' as UserRole, isHigherAuthority: true },
+  { id: '4', name: 'esther', email: 'staff2@oldhome.com', role: 'staff' as UserRole, isHigherAuthority: false },
 ];
 
 const roleIcons = {

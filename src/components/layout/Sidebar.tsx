@@ -54,7 +54,7 @@ export default function Sidebar() {
             <Heart className="w-5 h-5 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="font-semibold text-sidebar-foreground">Seva Ashram</h1>
+            <h1 className="font-semibold text-sidebar-foreground">LITTLE DROPS</h1>
             <p className="text-xs text-sidebar-foreground/60">Management System</p>
           </div>
         </div>

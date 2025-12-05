@@ -31,7 +31,7 @@ export default function Dashboard() {
       <div>
         <h1 className="text-3xl font-bold text-foreground">Dashboard</h1>
         <p className="text-muted-foreground mt-1">
-          Welcome back, {user?.name}. Here's an overview of Seva Ashram.
+          Welcome back, {user?.name}. Here's an overview of Little Drops.
         </p>
       </div>
 

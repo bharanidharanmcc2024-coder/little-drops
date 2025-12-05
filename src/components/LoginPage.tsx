@@ -63,7 +63,7 @@ export default function LoginPage() {
             <Heart className="w-8 h-8 text-sidebar-primary" />
           </div>
           <h1 className="text-3xl font-bold text-sidebar-foreground mb-2">
-            Seva Ashram
+            LITTLE DROPS
           </h1>
           <p className="text-sidebar-foreground/70">
             Old Age Home Management System

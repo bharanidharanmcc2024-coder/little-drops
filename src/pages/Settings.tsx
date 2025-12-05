@@ -37,15 +37,15 @@ export default function Settings() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="space-y-2">
             <Label htmlFor="orgName">Organization Name</Label>
-            <Input id="orgName" defaultValue="Seva Ashram" />
+            <Input id="orgName" defaultValue="Little Drops" />
           </div>
           <div className="space-y-2">
             <Label htmlFor="orgEmail">Contact Email</Label>
-            <Input id="orgEmail" type="email" defaultValue="contact@sevaashram.org" />
+            <Input id="orgEmail" type="email" defaultValue="littledrops.org" />
           </div>
           <div className="space-y-2 md:col-span-2">
             <Label htmlFor="orgAddress">Address</Label>
-            <Input id="orgAddress" defaultValue="123 Care Street, Chennai, Tamil Nadu" />
+            <Input id="orgAddress" defaultValue="1 , kalluri salai , chennai, Tamil Nadu" />
           </div>
         </div>
       </div>
